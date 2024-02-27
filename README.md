@@ -5,10 +5,6 @@
 | :---------------------: |
 | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Vibezzzzzzzzz/voila/HEAD?urlpath=voila%2Ftree%2Fnotebooks) |
 
-| JupyterLab |
-| :---------------------: |
-| [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NHameleers/voila/HEAD?urlpath=lab%2Ftree%2Fnotebooks) |
-
 
 This example demonstrates how to use [Voilà](https://github.com/voila-dashboards/voila) on Binder.
 
